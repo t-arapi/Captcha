@@ -14,11 +14,11 @@ return [
 		'prefix' 	=> 'aa_'
 	],
 	'session' => [
-		'save' 			=> 'file',
-		'name' 			=> 'qepa',
-		'time' 			=> 600,
+		'save' 		=> 'file',
+		'name' 		=> 'qepa',
+		'time' 		=> 600,
 		'regenerate' 	=> false,
-		'encode' 		=> true
+		'encode' 	=> true
 	],
 	'sito' => [
 		'debug' 	=> true,
